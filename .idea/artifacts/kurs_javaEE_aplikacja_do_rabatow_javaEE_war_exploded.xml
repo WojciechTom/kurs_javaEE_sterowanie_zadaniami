@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="kurs_javaEE_aplikacja_do_rabatow-javaEE:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/kurs_javaEE_aplikacja_do_rabatow_javaEE_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="kurs_javaEE_aplikacja_do_rabatow-javaEE/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="kurs_javaEE_aplikacja_do_rabatow-javaEE" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
